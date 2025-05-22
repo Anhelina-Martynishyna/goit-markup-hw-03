@@ -164,7 +164,7 @@ margin-right: 76px;
 
 .title-button {
   display: block;
-  min-height: 169px;
+  min-width: 169px;
   height: 56px;
   border: none;
   border-radius: 4px;
@@ -193,7 +193,9 @@ margin-right: 76px;
 .section-strategy {
   padding: 120px 0;
 }
-.visually-hidden 
+.visually-hidden {
+overflow: hidden;
+}
 .section-strategy-list {
   background-color: #FFFFFF;
 }
@@ -296,6 +298,7 @@ color: #2e2f42;
   margin-bottom: 8px;
 }
 .section-subtitle {
+  margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;

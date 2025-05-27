@@ -84,6 +84,7 @@ margin-right: 76px;
 }
 .navigation-item {
   padding: 24px 0;
+  list-style: none;
 }
 .navigation-link {
   display: block;

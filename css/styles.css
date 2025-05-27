@@ -82,8 +82,11 @@ margin-right: 76px;
   list-style: none;
   text-decoration: none;
 }
-.header-navigation-list {
+.navigation-item {
   padding: 24px 0;
+}
+.navigation-link {
+  display: block;
   list-style: none;
   text-decoration: none;
   cursor: pointer;

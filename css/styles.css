@@ -151,10 +151,6 @@ margin-right: 76px;
   padding: 188px 0;
   background-color: #2e2f42;
   text-align: center;
-  display: flex;
-  justify-content: center; 
-  align-items: center; 
-  min-height: 100vh; 
 }
 .title-container {
   display: flex;
@@ -262,7 +258,7 @@ color: #2e2f42;
   display: flex;
   gap: 24px;
 }
-.card-image {
+.container-name {
   background-color: #FFFFFF;
 }
 .team-list {
